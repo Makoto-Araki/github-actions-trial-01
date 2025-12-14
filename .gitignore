@@ -5,5 +5,6 @@ __init__.py
 .pytest_cache/
 .pytest_cache/*
 taskforce25m/__init__.py
+taskforce25m/chatgpt/__init__.py
 test/__init__.py
 utils/__init__.py
